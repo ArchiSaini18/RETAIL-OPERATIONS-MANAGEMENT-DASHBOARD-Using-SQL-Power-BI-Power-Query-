@@ -1,4 +1,4 @@
-**RETAIL & OPERATIONS MANAGEMENT DASHBOARD (Using SQL, Power BI & Power Query)**
+# RETAIL & OPERATIONS MANAGEMENT DASHBOARD (Using SQL, Power BI & Power Query)
 
 An interactive business intelligence dashboard built using SQL, Power BI, Power Query, and DAX to analyze retail sales performance, product profitability, regional trends, and revenue growth—enabling stakeholders to make data-driven operational and strategic decisions.
 
